@@ -51,7 +51,7 @@ try {
 
         echo "<h2>Customer registered successfully!</h2>";
         echo "<p><a href='index.html'>Back to form</a></p>";
-        echo "<p><a href='list_customers.php'>View Registered Customers</a></p>";
+        echo "<p><a href='client_list.php'>View Registered Customers</a></p>";
 
     } else {
         echo "Invalid request method.";
